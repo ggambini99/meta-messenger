@@ -6,6 +6,7 @@ module.exports = {
       "links.papareact.com",
       "media-exp1.licdn.com",
       "z-p3-scontent.fcgh19-1.fna.fbcdn.net",
+      "platform-lookaside.fbsbx.com",
     ],
   },
   experimental: {
